@@ -1,19 +1,26 @@
-FROM python:3.10-slim
+FROM python:3.11-slim
 
-# Install FFmpeg and clear apt cache to save space
+# Install system dependencies including FFmpeg and build tools
 RUN apt-get update && \
-    apt-get install -y ffmpeg && \
-    rm -rf /var/lib/apt/lists/*
+    apt-get install -y --no-install-recommends \
+        ffmpeg \
+        gcc \
+        python3-dev \
+    && rm -rf /var/lib/apt/lists/*
 
-# Set up the working directory
+# Set up working directory
 WORKDIR /app
 
-# Install Python dependencies
+# Upgrade pip and install Python dependencies
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
 
-# Copy the rest of the code
+# Copy application files
 COPY . .
+
+# Set default port for web server
+ENV PORT=10000
 
 # Run the bot
 CMD ["python", "main.py"]
