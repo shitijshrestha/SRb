@@ -1,0 +1,170 @@
+{
+    "users": [
+        {
+            "user_id": 7969019802,
+            "username": "Sanuq123",
+            "upload_mode": "video",
+            "split_enabled": true,
+            "caption": null,
+            "caption_enabled": false,
+            "thumbnail": null,
+            "generate_screenshots": false,
+            "generate_sample_video": false,
+            "banned": false,
+            "is_paid": false,
+            "subscription_start": null,
+            "paid_expiry": null
+        },
+        {
+            "user_id": 6403142441,
+            "username": "Shitijbro",
+            "upload_mode": "video",
+            "split_enabled": true,
+            "caption": null,
+            "caption_enabled": false,
+            "thumbnail": null,
+            "generate_screenshots": false,
+            "generate_sample_video": false,
+            "banned": false,
+            "is_paid": false,
+            "subscription_start": null,
+            "paid_expiry": null
+        }
+    ],
+    "urls": [
+        {
+            "url_id": "0ec38e39-16a8-49ea-86a0-d447425f57fc",
+            "url": "https://youtu.be/Qq5LvsGMfjY?si=Y5W_TgEi9MLboEGE",
+            "user_id": 7969019802,
+            "status": "pending",
+            "timestamp": "2026-11-28T12:52:17.489544"
+        },
+        {
+            "url_id": "db5201fa-e4f3-47e1-8bc8-d495f6781f02",
+            "url": "https://youtu.be/GknQSV5JgkA?si=56Q86umLikEXc3en",
+            "user_id": 7969019802,
+            "status": "pending",
+            "timestamp": "2026-11-28T12:52:56.926308"
+        },
+        {
+            "url_id": "f7e36cde-a6f1-4f99-b5fb-4d144b31bf2d",
+            "url": "https://www.hotstar.com/in/clips/dragon-naagin-face-off-begins-promo/1271498601/watch",
+            "user_id": 7969019802,
+            "status": "pending",
+            "timestamp": "2026-11-28T12:53:30.469908"
+        },
+        {
+            "url_id": "054d44be-ef4d-4208-95b4-8c5ed04bcd31",
+            "url": "https://www.dailymotion.com/playlist/x8t3ui",
+            "user_id": 7969019802,
+            "status": "pending",
+            "timestamp": "2026-11-28T12:53:30.481263"
+        },
+        {
+            "url_id": "af74d77d-3370-4232-861b-c9a2e5fbd528",
+            "url": "https://drive.google.com/file/d/1lTon7d2nAJtk5Y8LVCAELlC_G6D2Sqrn/view",
+            "user_id": 7969019802,
+            "status": "downloading",
+            "timestamp": "2026-11-28T13:03:53.292759"
+        },
+        {
+            "url_id": "98578dc4-90af-4c3b-ba51-f3aa5f6ab4bd",
+            "url": "https://www.gillitv.xyz/v/bepanah-episode-3-full-episode-watch-online/",
+            "user_id": 7969019802,
+            "status": "pending",
+            "timestamp": "2026-11-28T13:07:36.231691"
+        },
+        {
+            "url_id": "d68de1a1-a543-4b1c-8d50-5d806712ee8d",
+            "url": "https://www.gillitv.xyz/v/bepanah-episode-3-full-episode-watch-online/",
+            "user_id": 7969019802,
+            "status": "pending",
+            "timestamp": "2026-11-28T13:08:07.444863"
+        },
+        {
+            "url_id": "c640933e-ae29-4185-89e1-97a61dfbf9e7",
+            "url": "https://www.gillitv.xyz/v/bepanah-pyaar-3rd-june-2019-full-episode-1-watch-online/",
+            "user_id": 6403142441,
+            "status": "pending",
+            "timestamp": "2026-11-28T13:12:21.784232"
+        },
+        {
+            "url_id": "bc0b57e9-5d14-4c9d-87ee-b60bca1e4d8c",
+            "url": "https://www.jiocinemaus.com/episode/spy-bahu-s01e01-14th-march-2022-full-episode/",
+            "user_id": 6403142441,
+            "status": "pending",
+            "timestamp": "2026-11-28T13:12:21.835726"
+        },
+        {
+            "url_id": "93325be8-30ec-4339-9876-8d87e1e3555a",
+            "url": "https://www.sonyliv.com/sports/ufc-fight-night-kape-vs-horiguchi-1700000192/fight-sports-ufc-fight-night-kape-vs-horiguchi-replay-21-jun-2026-1090535214",
+            "user_id": 6403142441,
+            "status": "pending",
+            "timestamp": "2026-11-28T13:12:21.846400"
+        },
+        {
+            "url_id": "c2ec2ec4-e272-42e1-a13b-0116c7e23bff",
+            "url": "https://www.youtube.com/watch?v=wgCn6JKhYy0",
+            "user_id": 6403142441,
+            "status": "pending",
+            "timestamp": "2026-11-28T13:13:27.564868"
+        },
+        {
+            "url_id": "7edccd59-4e00-4f10-903f-a37f29818cc2",
+            "url": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Sarthak-SD/master/master.m3u8?hdnts=st=1786521792~exp=1786524792~acl=/out/v1/ZEE5_Live_Channels/Zee-Sarthak-SD/master/*~id=1e1dd57a-03aa-4ffa-8e53-0598d0d6383c~data=non-ssai_1e1dd57a-03aa-4ffa-8e53-0598d0d6383c~hmac=1420cced2ae7b7fb6be328a267fef68c266c4cc4cbbead0f5bb3558180fc477f&req_id=non-ssai_1e1dd57a-03aa-4ffa-8e53-0598d0d6383c",
+            "user_id": 6403142441,
+            "status": "pending",
+            "timestamp": "2026-11-28T13:14:08.275514"
+        },
+        {
+            "url_id": "c6493149-c3d1-4bf9-8e7a-91fa5ac3cf71",
+            "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
+            "user_id": 6403142441,
+            "status": "pending",
+            "timestamp": "2026-11-28T13:15:18.848724"
+        },
+        {
+            "url_id": "90dc5bdb-82ee-4b47-9f65-8d73d43ed893",
+            "url": "https://drive.google.com/file/d/1lTon7d2nAJtk5Y8LVCAELlC_G6D2Sqrn/view",
+            "user_id": 6403142441,
+            "status": "pending",
+            "timestamp": "2026-11-28T13:16:19.529159"
+        },
+        {
+            "url_id": "b05b17f6-d8ee-4adc-8bdf-0031c25d2815",
+            "url": "https://drive.google.com/file/d/1lTon7d2nAJtk5Y8LVCAELlC_G6D2Sqrn/view",
+            "user_id": 6403142441,
+            "status": "downloading",
+            "timestamp": "2026-11-28T13:40:17.668089"
+        },
+        {
+            "url_id": "78e93510-b384-45b7-95d9-e43c2eb21ee7",
+            "url": "https://www.hotstar.com/in/clips/dragon-naagin-face-off-begins-promo/1271498601/watch",
+            "user_id": 7969019802,
+            "status": "pending",
+            "timestamp": "2026-11-28T13:58:21.373945"
+        },
+        {
+            "url_id": "c8611ecf-fab0-4490-b019-c7302e41846e",
+            "url": "https://drive.google.com/file/d/1lTon7d2nAJtk5Y8LVCAELlC_G6D2Sqrn/view",
+            "user_id": 7969019802,
+            "status": "downloading",
+            "timestamp": "2026-11-28T13:59:24.694915"
+        },
+        {
+            "url_id": "67858f0a-27cb-4751-a779-b799168b7b68",
+            "url": "https://x.com/justarpan/status/676307830329110528",
+            "user_id": 7969019802,
+            "status": "completed",
+            "timestamp": "2026-11-28T14:02:10.214727"
+        },
+        {
+            "url_id": "ae35f20a-5166-4fba-b764-5e8ddc1d5f6f",
+            "url": "https://drive.google.com/file/d/1lTon7d2nAJtk5Y8LVCAELlC_G6D2Sqrn/view",
+            "user_id": 6403142441,
+            "status": "downloading",
+            "timestamp": "2026-11-28T14:05:26.050431"
+        }
+    ],
+    "daily_tasks": []
+}
